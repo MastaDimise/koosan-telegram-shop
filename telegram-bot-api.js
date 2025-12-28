@@ -1,7 +1,7 @@
 // Telegram Bot API взаимодействие
 class TelegramBotAPI {
     constructor() {
-        this.botToken = '8575289651:AAEx24yN99zIVlVhfN0BDkvpVfAgq9iac4I'; // Токен будет устанавливаться динамически
+        this.botToken = ' '; // Токен будет устанавливаться динамически
         this.baseUrl = 'https://api.telegram.org/bot';
     }
 
