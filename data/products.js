@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Брюки с лампасом",
+    "brand": "koosan",
+    "price": 2500,
+    "discount_price": 1500,
+    "discount_percent": 40,
+    "category": "pants",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["черный", "серый"],
+    "image": "https://via.placeholder.com/400x500/1a1a1a/ffffff?text=Koosan+Pants",
+    "description": "Оверсайз брюки с контрастным лампасом по бокам. Свободный крой для максимального комфорта.",
+    "material": "Хлопок 80%, Полиэстер 20%",
+    "features": ["оверсайз", "регулируемый пояс", "боковые карманы", "прочный материал"]
+  },
+  {
+    "id": 2,
+    "name": "Футболка паттерн Juxt",
+    "brand": "koosan",
+    "price": 3500,
+    "discount_price": 2000,
+    "discount_percent": 30,
+    "category": "tshirts",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": ["белый", "черный"],
+    "image": "https://via.placeholder.com/400x500/333333/ffffff?text=Koosan+T-Shirt",
+    "description": "Футболка с уникальным паттерном в оверсайз крое. Эксклюзивный принт.",
+    "material": "Хлопок 100%",
+    "features": ["оверсайз", "эксклюзивный принт", "прямой крой", "мягкий материал"]
+  },
+  {
+    "id": 3,
+    "name": "Лонгслив оверсайз",
+    "brand": "koosan",
+    "price": 2800,
+    "discount_price": 2200,
+    "discount_percent": 20,
+    "category": "longsleeves",
+    "sizes": ["M", "L", "XL"],
+    "colors": ["черный", "хаки"],
+    "image": "https://via.placeholder.com/400x500/444444/ffffff?text=Koosan+Longsleeve",
+    "description": "Лонгслив свободного кроя с удлиненными рукавами. Идеален для прохладной погоды.",
+    "material": "Хлопок 70%, Полиэстер 30%",
+    "features": ["оверсайз", "удлиненные рукава", "резинка снизу", "высокий воротник"]
+  },
+  {
+    "id": 4,
+    "name": "Худи с принтом",
+    "brand": "koosan",
+    "price": 4500,
+    "discount_price": 3500,
+    "discount_percent": 22,
+    "category": "hoodies",
+    "sizes": ["S", "M", "L", "XL"],
+    "colors": ["серый", "черный", "бежевый"],
+    "image": "https://via.placeholder.com/400x500/555555/ffffff?text=Koosan+Hoodie",
+    "description": "Оверсайз худи с капюшоном и логотипом бренда. Карман-кенгуру.",
+    "material": "Хлопок 80%, Полиэстер 20%",
+    "features": ["оверсайз", "капюшон", "карман-кенгуру", "резинка на рукавах"]
+  }
+]
