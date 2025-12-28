@@ -33,14 +33,13 @@ class UIManager {
             <div class="page home-page">
                 <header class="app-header">
                     <h1 class="shop-name">koosan</h1>
-                    <p class="shop-slogan">Оверсайз одежда</p>
+                    <p class="shop-slogan">женская одежда</p>
                 </header>
 
                 <div class="categories">
                     <button class="category-btn active" data-category="all">Все</button>
-                    <button class="category-btn" data-category="pants">Брюки</button>
-                    <button class="category-btn" data-category="tshirts">Футболки</button>
-                    <button class="category-btn" data-category="hoodies">Худи</button>
+                    <button class="category-btn" data-category="blouse">Блузки</button>
+                    <button class="category-btn" data-category="dress">Платья</button>
                 </div>
 
                 <div class="products-grid">
