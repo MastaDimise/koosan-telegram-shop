@@ -182,25 +182,25 @@ class KoosanApp {
         return [
             {
                 id: 1,
-                name: "Брюки с лампасом",
+                name: "Блузка",
                 brand: "koosan",
                 price: 2500,
-                discount_price: 1500,
-                discount_percent: 40,
-                category: "pants",
+                discount_price: 2250,
+                discount_percent: 10,
+                category: "blouse",
                 sizes: ["S", "M", "L", "XL"],
-                image: "https://via.placeholder.com/400x500/1a1a1a/ffffff?text=Koosan+Pants"
+                image: "https://via.placeholder.com/400x500/1a1a1a/ffffff?text=Koosan+blouse"
             },
             {
                 id: 2,
-                name: "Футболка Juxt",
+                name: "Платье",
                 brand: "koosan",
-                price: 3500,
-                discount_price: 2000,
-                discount_percent: 30,
-                category: "tshirts",
+                price: 10000,
+                discount_price: 5000,
+                discount_percent: 50,
+                category: "dress",
                 sizes: ["S", "M", "L", "XL", "XXL"],
-                image: "https://via.placeholder.com/400x500/333333/ffffff?text=Koosan+T-Shirt"
+                image: "https://via.placeholder.com/400x500/333333/ffffff?text=Koosan+T-dress"
             }
         ];
     }
